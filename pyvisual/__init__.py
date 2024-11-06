@@ -1,3 +1,7 @@
+"""
+This module provides convenience functions for screen and keyboard operations.
+"""
+
 from .core.screen import Screen
 from .core.keyboard import Keyboard
 from .core.app import App
